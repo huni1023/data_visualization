@@ -8,6 +8,6 @@ set of python script for data visualization (ex. wordcloud, network, ....)
 - network (text, people, ...)
 
 ## Etc
-i earn knowledge from Internet where lots of people share knowledge for free. 
+for writing this code, i earn knowledges and insights from Internet where lots of people share their knowledge for free. 
 
-so in this python code is not my own code
+so python code in this repository is not my belonging.
